@@ -2,8 +2,8 @@
 Contributors: jameskoster, woothemes, tiagonoronha
 Tags: woocommerce, ecommerce, storefront, social, sharing, seo
 Requires at least: 3.5
-Tested up to: 4.1.2
-Stable tag: 1.0.1
+Tested up to: 4.2.2
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,7 +33,10 @@ This plugin will only work with the [Storefront](http://wordpress.org/themes/sto
 
 == Changelog ==
 
-= 1.0.1 - 21.05.2015 =
+= 1.0.2 - 06.23.2015 =
+* Fix - Storefront install prompt no longer installs a child theme.
+
+= 1.0.1 - 05.21.2015 =
 * Fix - Properly encode spaces when adding the product title to the url.
 
 = 1.0.0 - 04.01.2015 =
